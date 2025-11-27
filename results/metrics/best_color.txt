@@ -1,0 +1,6 @@
+Best lighting condition: GREEN
+sharpness     276.722664
+contrast       47.287754
+brightness    105.101478
+entropy         6.947452
+color              GREEN
