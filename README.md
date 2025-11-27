@@ -15,9 +15,11 @@ Hardware:
 - Laptop webcam
 - Red, Yellow, Green LEDs
 - 220Ω resistors, jumper wires, breadboard
+  
 Software:
 - Arduino IDE
 - Python 3 (OpenCV, NumPy, Matplotlib, Pandas, PySerial)
+  
 Workflow:
 1. Python sends NEXT → NodeMCU switches LED.
 2. Webcam captures image under each color.
@@ -30,7 +32,9 @@ Color | Sharpness | Brightness
 Red | Low | Low
 Yellow| Medium | Medium
 Green | Highest | Highest
+
 Conclusion:
 Green illumination provides the clearest images due to higher sharpness and brightness. The project
 shows how simple IoT hardware + image processing can optimize imaging conditions.<img width="1600" height="1080" alt="ClearLens" src="https://github.com/user-attachments/assets/32a8fdf4-ef28-4651-9323-f72c5d1a2ddf" />
+
 
